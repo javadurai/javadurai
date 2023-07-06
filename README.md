@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a passionate software developer with a love for clean code and elegant solutions. 💻 My expertise lies in full-stack web development, where I enjoy working with cutting-edge technologies and frameworks. I have a strong background in Java, Spring Boot, and Angular, and I'm always eager to expand my skillset and explore new technologies.
+
+I thrive in collaborative environments and enjoy working with talented teams to deliver high-quality software products. I'm a firm believer in continuous learning and improvement, and I actively seek out opportunities to enhance my knowledge and skills.
+
+When I'm not coding, you can find me exploring the outdoors, playing guitar, or indulging in a good book. Feel free to reach out if you have any questions or if you'd like to collaborate on exciting projects. Let's build something amazing together! 🚀
