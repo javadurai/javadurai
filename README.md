@@ -23,24 +23,26 @@ When I'm not coding, you can find me exploring the outdoors, playing guitar, or 
 
 I would like to show some apps developed by me!
 
-# Loan Repayment Planner
+# Projects
+
+## Loan Ease - Loan Repayment Planner
 
 Loan Repayment Planner is a web application that helps users to plan their loan repayments by providing them with a detailed payment schedule.
 
 ![Loan Repayment Planner Screenshot](https://javadurai.github.io/loanease/)
 
-## Features
+### Features
 
 - Allows users to input the loan amount, annual interest rate, and loan term in months.
 - Provides a detailed payment schedule including opening balance, amount paid, principal, interest, and closing balance for each month.
 - Supports part payments, which can be done as fixed amounts in regular installments (monthly, quarterly, or yearly) or as variable amounts on user-selected dates.
 - Automatically recalculates the schedule as the user inputs or modifies data.
 
-## Live Demo
+### Live Demo
 
 You can try out the app at [Loan Repayment Planner Live Demo](https://javadurai.github.io/loanease/).
 
-## Technologies Used
+### Technologies Used
 
 - HTML5
 - CSS (MaterializeCSS)
@@ -53,11 +55,11 @@ You can try out the app at [Loan Repayment Planner Live Demo](https://javadurai.
 3. The payment schedule table will automatically update as you input the data.
 4. For variable part payments, input the amount in the "Part Payment" column of the payment schedule table on the desired date.
 
-## Contribute
+### Contribute
 
 Contributions, issues, and feature requests are welcome!
 
-## License
+### License
 
 This project is [MIT](https://opensource.org/licenses/MIT) licensed.
 
