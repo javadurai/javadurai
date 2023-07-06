@@ -45,8 +45,8 @@ You can try out the app at [Loan Repayment Planner Live Demo](https://javadurai.
 ### Technologies Used
 
 - HTML5
-- CSS (MaterializeCSS)
-- JavaScript (jQuery)
+- CSS (Bootstrap CSS)
+- JavaScript
 
 ## How to Use
 
