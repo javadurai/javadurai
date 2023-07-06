@@ -27,7 +27,7 @@ I would like to show some apps developed by me!
 
 Loan Repayment Planner is a web application that helps users to plan their loan repayments by providing them with a detailed payment schedule.
 
-![Loan Repayment Planner Screenshot](screenshot.png)
+![Loan Repayment Planner Screenshot](https://javadurai.github.io/loanease/)
 
 ## Features
 
@@ -38,7 +38,7 @@ Loan Repayment Planner is a web application that helps users to plan their loan 
 
 ## Live Demo
 
-You can try out the app at [Loan Repayment Planner Live Demo](YOUR_APP_URL).
+You can try out the app at [Loan Repayment Planner Live Demo](https://javadurai.github.io/loanease/).
 
 ## Technologies Used
 
