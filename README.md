@@ -29,7 +29,7 @@ I would like to show some apps developed by me!
 
 Loan Repayment Planner is a web application that helps users to plan their loan repayments by providing them with a detailed payment schedule.
 
-![Loan Repayment Planner Screenshot](LoanEase-App.png)
+<img src="LoanEase-App.png" alt="Loan Repayment Planner Screenshot" width="45%"/>
 
 ### Features
 
